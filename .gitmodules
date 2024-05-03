@@ -1,6 +1,6 @@
 [submodule "dsdl"]
 	path = dsdl
-	url = https://github.com/Firefly-Drone-Shows/DSDL
+	url = https://github.com/Firefly-Drone-Shows/DSDL.git
 [submodule "libuavcan/dsdl_compiler/pyuavcan"]
 	path = libuavcan/dsdl_compiler/pyuavcan
-	url = https://github.com/Firefly-Drone-Shows/pydronecan
+	url = https://github.com/Firefly-Drone-Shows/pydronecan.git
