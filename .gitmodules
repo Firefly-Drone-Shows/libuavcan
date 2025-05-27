@@ -4,4 +4,4 @@
 	branch = 00bce3e35b3cdc7d747193c18489d7629f8ce996
 [submodule "libuavcan/dsdl_compiler/pyuavcan"]
 	path = libuavcan/dsdl_compiler/pyuavcan
-	url = https://github.com/dronecan/pydronecan
+	url = https://github.com/Firefly-Drone-Shows/pydronecan.git
